@@ -1,0 +1,8 @@
+com\db\ConnectDatabase.class
+com\daoimp\UserDAOImp.class
+com\servlet\DeleteUser.class
+com\model\User.class
+com\dao\UserDAO.class
+com\servlet\FetchUser.class
+com\servlet\AddUser.class
+com\servlet\UpdateUser.class
