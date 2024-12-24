@@ -20,9 +20,7 @@
 					<td class=" row-heading" >Email</td>
 					<td  class="row-heading"  >Age</td>
 					<td  class="row-heading" >Phone</td>
-					<td class="row-heading" >
-						Action
-					</td>
+					<td class="row-heading" >Action </td>
 				</tr>
 				<% for (User user : usersList) { %>
 					<tr class="row" >

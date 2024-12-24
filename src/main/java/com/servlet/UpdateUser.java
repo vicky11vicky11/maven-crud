@@ -14,7 +14,6 @@ import jakarta.servlet.http.HttpServletResponse;
 
 @WebServlet("/updateUser")
 public class UpdateUser extends HttpServlet {
-
     @Override
     protected void service(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
         UserDAO userDao = new UserDAOImp();
